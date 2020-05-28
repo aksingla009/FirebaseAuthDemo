@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseAuth Demo</string>
+    <string name="logout_label">Logout</string>
+    <string name="home_label">Home</string>
+    <string name="profile_label">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
